@@ -1,2 +1,2 @@
-# kunstwer-p5
+# kunstwerk-p5
 repo voor kunstwerk p5js
